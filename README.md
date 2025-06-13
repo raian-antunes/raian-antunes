@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raian!
 
-I'm from São José, SC - Brazil. I'm a front-end developer and I have +10 years of experience with Frontend. I graduated in Computer Science from UNISUL in 2013. 
+I'm from São José, SC, Brazil. I'm a front-end developer with over 10 years of experience in frontend development. I graduated in Computer Science from UNISUL in 2013.
 
 ---
 
